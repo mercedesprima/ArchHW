@@ -1,4 +1,4 @@
-package lesson3.lsp;
+package lsp;
 
 public class Rectangle {
     private int sideA;

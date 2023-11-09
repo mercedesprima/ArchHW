@@ -1,4 +1,4 @@
-package lesson3.srp;
+package srp;
 
 public class Point {
     private int x;

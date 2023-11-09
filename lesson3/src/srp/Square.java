@@ -1,4 +1,4 @@
-package lesson3.srp;
+package srp;
 
 import java.util.ArrayList;
 import java.util.List;

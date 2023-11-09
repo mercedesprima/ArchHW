@@ -1,4 +1,4 @@
-package lesson3.dip;
+package dip;
 
 import java.util.List;
 

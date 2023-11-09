@@ -1,4 +1,4 @@
-package lesson3.ocp;
+package ocp;
 
 import java.util.ArrayList;
 import java.util.List;

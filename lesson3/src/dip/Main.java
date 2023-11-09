@@ -1,4 +1,4 @@
-package lesson3.dip;
+package dip;
 
 public class Main {
     public static void main(String[] args) {

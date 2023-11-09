@@ -1,4 +1,4 @@
-package lesson3.ocp;
+package ocp;
 
 public class Rectangle implements Shape {
     private int side1;

@@ -1,4 +1,4 @@
-package lesson3.ocp;
+package ocp;
 
 //Класс `RightTriangle` имеет поля `side1`, `side2`, а также метод `area()`, который вычисляет площадь прямоугольного треугольника.
 public class RightTriangle implements Shape {

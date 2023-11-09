@@ -1,4 +1,4 @@
-package lesson3.ocp;
+package ocp;
 
 // Класс `Square` имеет поле `side` и метод `area()`, который вычисляет площадь квадрата.
 public class Square  implements Shape {
